@@ -1,5 +1,5 @@
 como siempre empezamos con un scaneo de nmap  
-![escaneo nmap](images/Pasted image 20251030115808.png)
+![escaneo nmap](images/Pasted%20image%2020251030115808.png)
 
 ![resultado nmap detalle](images/Pasted%20image%2020251030130706.png)
 
