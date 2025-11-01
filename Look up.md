@@ -29,7 +29,7 @@ Básicamente aquí le estamos diciendo a hydra (herramienta para hacer ataques d
 
 ![hydra ejecución](images/Pasted%20image%2020251030130320.png)
 
-aqui encontramos la contrasena para jose
+aqui encontramos la contrasena para el loging
 
 ![password encontrada](images/Pasted%20image%2020251030130420.png)
 
