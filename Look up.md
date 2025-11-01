@@ -2,9 +2,9 @@ como siempre empezamos con un scaneo de nmap
 
 ![escaneo nmap](images/Pasted%20image%2020251030115808.png)
 
-![resultado nmap detalle](images/Pasted%20image%2020251030115834.png)
-
 vemos que tenemos un servicio ssh en el puerto 22 y un servicio http en el puerto 80
+
+![resultado nmap detalle](images/Pasted%20image%2020251030115834.png) 
 
 vemos que nos da una pagina, la agreagamos al /etc/hosts usando sudo nano /etc/hosts  
 ![hosts edit](images/Pasted%20image%2020251030120645.png)
