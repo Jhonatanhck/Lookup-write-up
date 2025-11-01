@@ -60,7 +60,7 @@ tenemos que poner la opcion RHOSTS en files.lookup.thm y la LHOSTS a nuestra ip
 ya tenemos una shell  
 para entrar a la shell solo tenemos que poner `shell` en meterpreter
 
-Ahora va la parte de escalada de privilegios pt1
+ # Ahora va la parte de escalada de privilegios pt1
 
 leyendo el `/etc/passwd` vemos que hay un usuario `think` y `root`
 
