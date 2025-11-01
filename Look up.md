@@ -93,6 +93,5 @@ el binario ejecuta el comando `id` y luego extrae el username y luego pone el us
 vamos a intentar engañar al programa ejecutando un comando `id` diferente uno que resulte extrayendo el username de `think`
 
 podemos añadir `/tmp` a nuestro `PATH` con `export PATH=/tmp:$PATH`
-
-look up pt2.md
+https://github.com/Jhonatanhck/Lookup-write-up/blob/main/look%20up%20pt2.md
 
