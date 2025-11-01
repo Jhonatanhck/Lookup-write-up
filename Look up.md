@@ -94,3 +94,5 @@ vamos a intentar engañar al programa ejecutando un comando `id` diferente uno q
 
 podemos añadir `/tmp` a nuestro `PATH` con `export PATH=/tmp:$PATH`
 
+look up pt2.md
+
