@@ -9,12 +9,12 @@ vemos que tenemos un servicio ssh en el puerto 22 y un servicio http en el puert
 vemos que nos da una pagina, la agreagamos al /etc/hosts usando sudo nano /etc/hosts  
 ![hosts edit](images/Pasted%20image%2020251030120645.png)
 
-![hosts guardado](images/Pasted%20image%2020251030120754.png)
+entramos a la pagina mediante la url o la ip de THM, nos encontramos con un login simple 
 
-entramos a la pagina mediante la url o la ip de THM, nos encontramos con un login simple
+ intentamos fuerza bruta con admin:admin, admin:password y no funciona, tambien los ataques de SQLI tampoco funcionaban
 
-intentamos fuerza bruta con admin:admin, admin:password y no funciona, tambien los ataques de SQLI tampoco funcionaban
 
+![hosts guardado](images/Pasted%20image%2020251030120754.png) 
 utilizamos este script de python  
 ![script python](images/Pasted%20image%2020251030120943.png)
 
