@@ -54,7 +54,7 @@ utilizamos metasploit y vemos esto
 
 tenemos que poner la opcion RHOSTS en files.lookup.thm y la LHOSTS a nuestra ip
 
-![msf RHOSTS LHOSTS](images/Pasted%20image%2020251030133337.png)
+![msf RHOSTS LHOSTS](images/Pasted%image%20251030132941.png)
 
 ![meterpreter exploit run](images/Pasted%20image%2020251030133428.png)  
 ya tenemos una shell  
