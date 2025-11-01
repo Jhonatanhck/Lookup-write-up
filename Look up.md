@@ -11,7 +11,7 @@ vemos que nos da una pagina, la agreagamos al /etc/hosts usando sudo nano /etc/h
 
 ![hosts guardado](images/Pasted%20image%2020251030120754.png)
 
-accesamos a la pagina mediante la url o la ip de THM, nos encontramos con un login simple
+entramos a la pagina mediante la url o la ip de THM, nos encontramos con un login simple
 
 intentamos fuerza bruta con admin:admin, admin:password y no funciona, tambien los ataques de SQLI tampoco funcionaban
 
