@@ -7,7 +7,7 @@ vemos que tenemos un servicio ssh en el puerto 22 y un servicio http en el puert
 ![resultado nmap detalle](images/Pasted%20image%2020251030115834.png) 
 
 vemos que nos da una pagina, la agreagamos al /etc/hosts usando sudo nano /etc/hosts  
-![hosts edit](images/Pasted%20image%2020251030120645.png)
+![hosts edit](images/imagen.png)
 
 entramos a la pagina mediante la url o la ip de THM, nos encontramos con un login simple 
 
